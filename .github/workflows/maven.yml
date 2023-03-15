@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build-and-test(macos-latest):
+  build-and-test:
 
     runs-on: macos-latest
 
